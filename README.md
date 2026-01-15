@@ -1,4 +1,4 @@
-[[_TOSP_]]
+[TOSP]
 
 # 山姆大叔
 
@@ -8,13 +8,24 @@
 
 ## 登台經驗
 
-- 2024 Hello World Dev Conference - [協作與敏捷： 外部廠商如何融入我們的DevOps環境那條漫長道路](https://hwdc.ithome.com.tw/2024/session-page/3214)
-- 2025 DevOps Taiwan Meetup #66（實體）- [從工程師到開發團隊的 Azure DevOps 冒險指南](https://devops.kktix.cc/events/meetup-66)
-- 2025 DevOpsDays Taipei - [實戰：引入Azure DevOps Service 的團隊探險三部曲](https://devopsdays.tw/2025/workshop-page/3793)
-- DevOps Taiwan Meetup #71（實體） - [綜合座談：甲方公司的 DevOps 情境](https://devops.kktix.cc/events/meetup-71-devops)
+- 2024 Hello World Dev Conference - [協作與敏捷： 外部廠商如何融入我們的DevOps環境那條漫長道路](https://hwdc.ithome.com.tw/2024/session-page/3214)。
+- 2025 DevOps Taiwan Meetup #66（實體）- [從工程師到開發團隊的 Azure DevOps 冒險指南](https://devops.kktix.cc/events/meetup-66)。
+- 2025 DevOpsDays Taipei - [實戰：引入Azure DevOps Service 的團隊探險三部曲](https://devopsdays.tw/2025/workshop-page/3793)。
+- 2025 DevOps Taiwan Meetup #71（實體） - [綜合座談：甲方公司的 DevOps 情境](https://devops.kktix.cc/events/meetup-71-devops)。
 
 ## 著作
 
-- 書籍：[我要招架一切【痛點】：從工程師到開發團隊的 Azure DevOps 冒險指南（iThome鐵人賽系列書）](https://www.tenlong.com.tw/products/9786264140690?list_name=lv)
-- 2025 iThome 鐵人賽 ：[解鎖API超能力：我的30天Kong可觀測性與管理實戰之旅 系列](https://ithelp.ithome.com.tw/users/20162800/ironman/8705)
-- 2023 iThome 鐵人賽 ：[任務導向的Azure DevOps 系列文](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/6833)
+- 書籍：[我要招架一切【痛點】：從工程師到開發團隊的 Azure DevOps 冒險指南（iThome鐵人賽系列書）](https://www.tenlong.com.tw/products/9786264140690?list_name=lv)。
+- 2023 iThome 鐵人賽 ：[任務導向的Azure DevOps 系列文](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/6833)。
+- 2025 iThome 鐵人賽 ：[解鎖API超能力：我的30天Kong可觀測性與管理實戰之旅 系列](https://ithelp.ithome.com.tw/users/20162800/ironman/8705)。
+
+## 講師經驗
+
+- 2025 - **中華電信** - 實戰：引入Azure DevOps Service 的團隊探險三部曲。
+- 2025 - **多奇科技** - 卡牌揭密DevOps：牌桌上的企業主與工程師。
+
+## 得獎經驗
+
+- 2025 微軟最有價值專家 (DevOps) - https://mvp.microsoft.com/zh-TW/MVP/profile/fefc764f-3b85-4960-82eb-c2dd2ec7e464
+- 2025 iThome 鐵人賽 - DevOps 組優選 - [解鎖API超能力：我的30天Kong可觀測性與管理實戰之旅 系列](https://ithelp.ithome.com.tw/users/20162800/ironman/8705)。
+- 2023 iThome 鐵人賽 - DevOps 組優選 - [任務導向的Azure DevOps 系列文](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/6833)。
